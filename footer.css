@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-/* Footer Styles */
 .green-footer {
   background-color: darkgreen;
   color: white;
@@ -70,7 +69,6 @@
   text-decoration: underline;
 }
 
-/* Social Media Icons */
 .footer-section ul li a i {
   margin-right: 5px;
 }
