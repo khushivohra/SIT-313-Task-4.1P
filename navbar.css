@@ -1,11 +1,11 @@
-/* Reset default margins and paddings */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Navbar Styles */
+
   .navbar {
     display: flex;
     justify-content: space-between;
@@ -65,10 +65,10 @@
     border: 1px solid #3498db;
   }
   
-  /* New styling for the buttons */
-  .navbar ul .Button { /* Use uppercase "B" for class name */
+
+  .navbar ul .Button { 
     display: flex;
     gap: 20px;
     align-items: center;
-    justify-content: flex-end; /* Aligns the items to the right */
+    justify-content: flex-end; 
   }
